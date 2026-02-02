@@ -60,7 +60,7 @@ You must always show the response at the end of your answer, Do not show respons
 
 ## 2. Iterative Memory & Self-Correction
 * **The "Mistake" Protocol**: If I correct your code or logic, you must NOT just apologize. You must **analyze why** you failed and suggest a new rule to add to this file to prevent it next time.
-* **No Silent Failures**: If you are unsure about a dependency or file path, ask me or run a terminal command to check. Never guess.
+* **Never Speculate**: You MUST read the files referenced in the prompt before answering. Never guess about code you have not opened.
 
 ## 3. Coding Philosophy (The 80/20 Rule)
 * **Simplicity Wins**: Write code that is easy to delete, not just easy to extend. Avoid over-engineering.
